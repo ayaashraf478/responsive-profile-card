@@ -1,3 +1,4 @@
-![Design preview for the Product preview card component coding challenge](./images/responsive-profile-card.png)
-# responsive-profile-card
-Responsive Profile Card in HTML &amp; CSS
+# Responsive Profile card
+
+A responsive profile card that allows visitors to connect with the blogger through multiple social media platforms and follow them on their channels and accounts.
+I built it using HTML and CSS.
